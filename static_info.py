@@ -17,5 +17,5 @@ SELECT_DEPARTMENTS = [75, 77, 78, 91, 92]
 SELECT_FONCTIONS = ["biostatistique / data management", 'réglementaire']
 # SELECT_SECTORS = []             # example: biotechnologies
 # SELECT_EDUCATIONS = ["bac+5"]
-SELECT_CONTRACTS = ["cdi", "cdd"]
+SELECT_CONTRACTS = ["cdi", "cdd", "mission d'intérim"]
 

@@ -74,11 +74,10 @@ original_stdout = sys.stdout # Save a reference to the original standard output 
 with open('readme.md', 'w') as f:
     sys.stdout = f # change stdout pointer to "readme.md"
     """ everything printed here goes into readme.md """
-    print("A Web parser to browse more easily the job post for young graduate on leem.org: {}".format(LEEM_JEUNE_URL)) 
-    print("I was consulting the fresh graduate job posting section of leem.org, while I've found some interesting jobposts, it was really annoying to browse." )
-    print("So I made this little program to mine and filter junior jobposts.")
-    
-    print("The results are periodically printed in a table below via a CRON that I've set to run daily.")
+    print("A Web parser to browse more easily the job post for young graduate on leem.org: {}.  ".format(LEEM_JEUNE_URL)) 
+    print("I was consulting the fresh graduate job posting section of leem.org, while I've found some interesting jobposts, it was really annoying to browse.  " )
+    print("So I made this little program to mine and filter junior jobposts.  ")
+    print("The results are periodically printed in a table below via a CRON that I've set to run daily.  ")
     
     print()
     print()

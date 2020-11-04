@@ -1,7 +1,7 @@
-A Web parser to browse more easily the job post for young graduate on leem.org: https://www.emploi.leem.org/espaces-sp%C3%A9cialis%C3%A9s-offre/jeunes-pro-2-ans-exp
-I was consulting the fresh graduate job posting section of leem.org, while I've found some interesting jobposts, it was really annoying to browse.
-So I made this little program to mine and filter junior jobposts.
-The results are periodically printed in a table below via a CRON that I've set to run daily.
+A Web parser to browse more easily the job post for young graduate on leem.org: https://www.emploi.leem.org/espaces-sp%C3%A9cialis%C3%A9s-offre/jeunes-pro-2-ans-exp.  
+I was consulting the fresh graduate job posting section of leem.org, while I've found some interesting jobposts, it was really annoying to browse.  
+So I made this little program to mine and filter junior jobposts.  
+The results are periodically printed in a table below via a CRON that I've set to run daily.  
 
 
 |    | Titles                                   | Link                                                                                   |   Department |   Time consulted |
