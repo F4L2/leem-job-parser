@@ -68,7 +68,7 @@ selection.transpose
 
 df = pd.DataFrame(selection, columns =['Titles', 'Link', "Department", "Time consulted"]) 
 
-
+# print(tabulate(df, headers='keys', tablefmt='psql'))
 
 ### update readme.md
 
@@ -77,7 +77,8 @@ with open('readme.md', 'w') as f:
     sys.stdout = f # change stdout pointer to "readme.md"
     """ everything printed here goes into readme.md """
     print("A Web parser to browse more easily the job post for young graduate on leem.org: {}    I was consulting the fresh graduate job posting section of leem.org, while I've found some interesting jobposts, it was really annoying to browse.  So I made this little program to mine and filter junior jobposts. The results are periodically printed in a table below via a CRON that I've set to run daily.  ".format(LEEM_JEUNE_URL))
-    print(tabulate(df, headers='keys', tablefmt='psql'))
     
+    
+    print(df.to_markdown(tablefmt="grid"))
     sys.stdout = original_stdout # reset stdout
     
