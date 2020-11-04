@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from tabulate import tabulate
 import sys
+from datetime import date, datetime
 
 from static_info import *
 import datamining
@@ -83,5 +84,9 @@ with open('readme.md', 'w') as f:
     print()
 
     print(df.to_markdown())
+
+    print("  ")
+    print("Last updated the {} at {}.".format(date.today(), datetime.now().strftime("%H:%M:%S")))
+
     sys.stdout = original_stdout # reset stdout
     
