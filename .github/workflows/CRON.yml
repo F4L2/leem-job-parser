@@ -4,8 +4,6 @@
 name: CRON
 
 on:
-  push:
-    branches: [ master ]
   schedule:
   - cron: "0 9 * * 1-5"
 
@@ -41,3 +39,17 @@ jobs:
     - name: Run app
       run: |
         python selection.py
+        
+    - name: Commit files # commit the output folder
+      run: |
+        git config --local user.email "alex.ye@outlook.fr"
+        git config --local user.name "LEEM-JOB-CRON"
+        git add readme.md
+        git commit -m "update job list"
+        
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        branch: B77 #ignore if your branch is master
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
