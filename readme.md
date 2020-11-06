@@ -6,12 +6,13 @@ The results are periodically printed in a table below via a CRON that I've set t
 
 |    | Titles                                   | Link                                                                                   |   Department |   Time consulted |
 |---:|:-----------------------------------------|:---------------------------------------------------------------------------------------|-------------:|-----------------:|
-|  0 | chargÈ affaires rÈglementaires zone apac | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-zone-apac |           75 |              279 |
-|  1 | database programmer                      | https://www.emploi.leem.org/content/database-programmer                                |           92 |             2107 |
-|  2 | programmeur statistiques                 | https://www.emploi.leem.org/content/programmeur-statistiques                           |           92 |             2393 |
-|  3 | ia / software                            | https://www.emploi.leem.org/content/ia-software                                        |           75 |              663 |
-|  4 | pharmacien rÈglementaire                 | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4                    |           75 |              448 |
-|  5 | programmeur sas - oncologie              | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                        |           75 |              412 |
-|  6 | rÈfÈrent laboratoire projets             | https://www.emploi.leem.org/content/r%c3%a9f%c3%a9rent-laboratoire-projets             |           75 |              852 |
+|  0 | consultant affaires r√©glementaires       | https://www.emploi.leem.org/content/consultant-affaires-r%c3%a9glementaires-1          |           92 |               21 |
+|  1 | charg√© affaires r√©glementaires zone apac | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-zone-apac |           75 |              296 |
+|  2 | ia / software                            | https://www.emploi.leem.org/content/ia-software                                        |           75 |              676 |
+|  3 | database programmer                      | https://www.emploi.leem.org/content/database-programmer                                |           92 |             2116 |
+|  4 | programmeur statistiques                 | https://www.emploi.leem.org/content/programmeur-statistiques                           |           92 |             2403 |
+|  5 | pharmacien r√©glementaire                 | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4                    |           75 |              460 |
+|  6 | programmeur sas - oncologie              | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                        |           75 |              423 |
+|  7 | r√©f√©rent laboratoire projets             | https://www.emploi.leem.org/content/r%c3%a9f%c3%a9rent-laboratoire-projets             |           75 |              863 |
   
-Last updated the 2020-11-04 at 19:24:35.
+Last updated the 2020-11-06 at 15:08:58.
