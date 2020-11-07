@@ -76,7 +76,7 @@ with open('readme.md', 'w') as f:
     sys.stdout = f # change stdout pointer to "readme.md"
     """ everything printed here goes into readme.md """
     print("A Web parser to browse more easily the job post for young graduate on leem.org: {}.  ".format(LEEM_JEUNE_URL)) 
-    print("The results are updated in the table below each working day.  ")
+    print("The results are updated in the table below every working day.  ")
     
     print()
     print()
