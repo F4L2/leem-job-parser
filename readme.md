@@ -4,12 +4,12 @@ The results are updated in the table below every working day.
 
 |    | Titles                              | Link                                                                              |   Department |   Consulted |
 |---:|:------------------------------------|:----------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-16 |           92 |         187 |
-|  1 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                           |           92 |        2205 |
-|  2 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                      |           92 |        2506 |
-|  3 | data manager                        | https://www.emploi.leem.org/content/data-manager-41                               |           75 |         695 |
-|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                   |           75 |         538 |
-|  5 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4               |           75 |         560 |
-|  6 | biostatisticien                     | https://www.emploi.leem.org/content/biostatisticien-6                             |           75 |        1263 |
+|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-16 |           92 |         209 |
+|  1 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                           |           92 |        2212 |
+|  2 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                      |           92 |        2516 |
+|  3 | data manager                        | https://www.emploi.leem.org/content/data-manager-39                               |           75 |         708 |
+|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                   |           75 |         541 |
+|  5 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4               |           75 |         561 |
+|  6 | biostatisticien                     | https://www.emploi.leem.org/content/biostatisticien-6                             |           75 |        1269 |
   
-Last updated the 2020-11-30 at 09:14:53.
+Last updated the 2020-12-01 at 09:15:14.
