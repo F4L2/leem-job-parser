@@ -2,14 +2,14 @@ A Web parser to browse more easily the job post for young graduate on leem.org: 
 The results are updated in the table below every working day.  
 
 
-|    | Titles                              | Link                                                                              |   Department |   Consulted |
-|---:|:------------------------------------|:----------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-16 |           92 |         209 |
-|  1 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                           |           92 |        2212 |
-|  2 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                      |           92 |        2516 |
-|  3 | data manager                        | https://www.emploi.leem.org/content/data-manager-39                               |           75 |         708 |
-|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                   |           75 |         541 |
-|  5 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4               |           75 |         561 |
-|  6 | biostatisticien                     | https://www.emploi.leem.org/content/biostatisticien-6                             |           75 |        1269 |
+|    | Titles                              | Link                                                                             |   Department |   Consulted |
+|---:|:------------------------------------|:---------------------------------------------------------------------------------|-------------:|------------:|
+|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-4 |           92 |         224 |
+|  1 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                          |           92 |        2219 |
+|  2 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                     |           92 |        2523 |
+|  3 | data manager                        | https://www.emploi.leem.org/content/data-manager-39                              |           75 |         723 |
+|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                  |           75 |         547 |
+|  5 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4              |           75 |         564 |
+|  6 | biostatisticien                     | https://www.emploi.leem.org/content/biostatisticien-6                            |           75 |        1277 |
   
-Last updated the 2020-12-01 at 09:15:14.
+Last updated the 2020-12-02 at 09:19:32.
