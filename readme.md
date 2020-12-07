@@ -4,12 +4,11 @@ The results are updated in the table below every working day.
 
 |    | Titles                              | Link                                                                             |   Department |   Consulted |
 |---:|:------------------------------------|:---------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-4 |           92 |         252 |
-|  1 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4              |           75 |         591 |
-|  2 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                  |           75 |         561 |
-|  3 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                          |           92 |        2226 |
-|  4 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                     |           92 |        2535 |
-|  5 | data manager                        | https://www.emploi.leem.org/content/data-manager-37                              |           75 |         734 |
-|  6 | biostatisticien                     | https://www.emploi.leem.org/content/biostatisticien-6                            |           75 |        1293 |
+|  0 | chargé(e) d'affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9e-daffaires-r%c3%a9glementaires-4 |           92 |         275 |
+|  1 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-4              |           75 |         608 |
+|  2 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                  |           75 |         573 |
+|  3 | database programmer                 | https://www.emploi.leem.org/content/database-programmer                          |           92 |        2231 |
+|  4 | programmeur statistiques            | https://www.emploi.leem.org/content/programmeur-statistiques                     |           92 |        2542 |
+|  5 | data manager                        | https://www.emploi.leem.org/content/data-manager-34                              |           75 |         849 |
   
-Last updated the 2020-12-04 at 09:27:38.
+Last updated the 2020-12-07 at 09:19:29.
