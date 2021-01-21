@@ -4,10 +4,10 @@ The results are updated in the table below every working day.
 
 |    | Titles                              | Link                                                                    |   Department |   Consulted |
 |---:|:------------------------------------|:------------------------------------------------------------------------|-------------:|------------:|
-|  0 | ia / software                       | https://www.emploi.leem.org/content/ia-software                         |           75 |         978 |
-|  1 | statisticien programmeur junior phd | https://www.emploi.leem.org/content/statisticien-programmeur-junior-phd |           75 |         132 |
-|  2 | biostatisticien datamanager         | https://www.emploi.leem.org/content/biostatisticien-datamanager         |           75 |         933 |
-|  3 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2     |           75 |         883 |
-|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0         |           75 |         790 |
+|  0 | ia / software                       | https://www.emploi.leem.org/content/ia-software                         |           75 |         982 |
+|  1 | statisticien programmeur junior phd | https://www.emploi.leem.org/content/statisticien-programmeur-junior-phd |           75 |         250 |
+|  2 | biostatisticien datamanager         | https://www.emploi.leem.org/content/biostatisticien-datamanager         |           75 |         946 |
+|  3 | pharmacien réglementaire            | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2     |           75 |         887 |
+|  4 | programmeur sas - oncologie         | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0         |           75 |         796 |
   
-Last updated the 2021-01-20 at 09:54:05.
+Last updated the 2021-01-21 at 10:03:00.
