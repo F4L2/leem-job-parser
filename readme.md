@@ -4,13 +4,13 @@ The results are updated in the table below every working day.
 
 |    | Titles                         | Link                                                                            |   Department |   Consulted |
 |---:|:-------------------------------|:--------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | programmeur sas junior         | https://www.emploi.leem.org/content/programmeur-sas-junior                      |           75 |         210 |
-|  1 | database programmer            | https://www.emploi.leem.org/content/database-programmer                         |           92 |        2581 |
-|  2 | programmeur statistiques       | https://www.emploi.leem.org/content/programmeur-statistiques                    |           92 |        2956 |
-|  3 | ia / software                  | https://www.emploi.leem.org/content/ia-software                                 |           75 |        1161 |
-|  4 | pharmacien réglementaire       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2             |           75 |        1115 |
-|  5 | programmeur sas - oncologie    | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                 |           75 |         994 |
-|  6 | statisticien-ne                | https://www.emploi.leem.org/content/statisticien-ne                             |           75 |         119 |
-|  7 | chargé affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-13 |           75 |         261 |
+|  0 | programmeur sas junior         | https://www.emploi.leem.org/content/programmeur-sas-junior                      |           75 |         223 |
+|  1 | database programmer            | https://www.emploi.leem.org/content/database-programmer                         |           92 |        2586 |
+|  2 | programmeur statistiques       | https://www.emploi.leem.org/content/programmeur-statistiques                    |           92 |        2965 |
+|  3 | ia / software                  | https://www.emploi.leem.org/content/ia-software                                 |           75 |        1166 |
+|  4 | pharmacien réglementaire       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2             |           75 |        1120 |
+|  5 | programmeur sas - oncologie    | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                 |           75 |         999 |
+|  6 | statisticien-ne                | https://www.emploi.leem.org/content/statisticien-ne                             |           75 |         126 |
+|  7 | chargé affaires réglementaires | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-13 |           75 |         274 |
   
-Last updated the 2021-02-25 at 09:18:08.
+Last updated the 2021-02-26 at 09:17:46.
