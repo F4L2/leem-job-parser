@@ -4,12 +4,12 @@ The results are updated in the table below every working day.
 
 |    | Titles                                         | Link                                                                                 |   Department |   Consulted |
 |---:|:-----------------------------------------------|:-------------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | pharmacien réglementaire                       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                  |           75 |        1211 |
-|  1 | programmeur statistique (adam & tfl)           | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                 |           92 |          65 |
-|  2 | pharmacien - chargé d'affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-charg%c3%a9-daffaires-pharmaceutiques |           91 |          97 |
-|  3 | ia / software                                  | https://www.emploi.leem.org/content/ia-software                                      |           75 |        1256 |
-|  4 | database programmer                            | https://www.emploi.leem.org/content/database-programmer                              |           92 |        2677 |
-|  5 | programmeur statistiques                       | https://www.emploi.leem.org/content/programmeur-statistiques                         |           92 |        3072 |
-|  6 | data manager - concepteur d’e-crf              | https://www.emploi.leem.org/content/data-manager-concepteur-d%e2%80%99e-crf          |           75 |         121 |
+|  0 | pharmacien réglementaire                       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                  |           75 |        1216 |
+|  1 | programmeur statistique (adam & tfl)           | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                 |           92 |          69 |
+|  2 | pharmacien - chargé d'affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-charg%c3%a9-daffaires-pharmaceutiques |           91 |         102 |
+|  3 | ia / software                                  | https://www.emploi.leem.org/content/ia-software                                      |           75 |        1261 |
+|  4 | database programmer                            | https://www.emploi.leem.org/content/database-programmer                              |           92 |        2683 |
+|  5 | programmeur statistiques                       | https://www.emploi.leem.org/content/programmeur-statistiques                         |           92 |        3076 |
+|  6 | data manager - concepteur d’e-crf              | https://www.emploi.leem.org/content/data-manager-concepteur-d%e2%80%99e-crf          |           75 |         126 |
   
-Last updated the 2021-03-18 at 09:18:39.
+Last updated the 2021-03-19 at 09:18:14.
