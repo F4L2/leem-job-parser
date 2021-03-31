@@ -4,12 +4,12 @@ The results are updated in the table below every working day.
 
 |    | Titles                                         | Link                                                                                  |   Department |   Consulted |
 |---:|:-----------------------------------------------|:--------------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | programmeur sas - oncologie                    | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                       |           75 |        1081 |
-|  1 | chargé affaires réglementaires junior          | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-junior-1 |           75 |          80 |
-|  2 | ia / software                                  | https://www.emploi.leem.org/content/ia-software                                       |           75 |        1318 |
-|  3 | chargé affaires réglementaires                 | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-15       |           75 |          64 |
-|  4 | pharmacien réglementaire                       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                   |           75 |        1270 |
-|  5 | programmeur statistique (adam & tfl)           | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                  |           92 |         116 |
-|  6 | pharmacien - chargé d'affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-charg%c3%a9-daffaires-pharmaceutiques  |           91 |         171 |
+|  0 | programmeur sas - oncologie                    | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                       |           75 |        1087 |
+|  1 | chargé affaires réglementaires junior          | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-junior-1 |           75 |          87 |
+|  2 | ia / software                                  | https://www.emploi.leem.org/content/ia-software                                       |           75 |        1322 |
+|  3 | chargé affaires réglementaires                 | https://www.emploi.leem.org/content/charg%c3%a9-affaires-r%c3%a9glementaires-15       |           75 |          68 |
+|  4 | pharmacien réglementaire                       | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                   |           75 |        1276 |
+|  5 | programmeur statistique (adam & tfl)           | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                  |           92 |         123 |
+|  6 | pharmacien - chargé d'affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-charg%c3%a9-daffaires-pharmaceutiques  |           91 |         176 |
   
-Last updated the 2021-03-30 at 09:22:13.
+Last updated the 2021-03-31 at 09:22:09.
