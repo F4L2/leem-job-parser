@@ -4,14 +4,14 @@ The results are updated in the table below every working day.
 
 |    | Titles                                                   | Link                                                                                         |   Department |   Consulted |
 |---:|:---------------------------------------------------------|:---------------------------------------------------------------------------------------------|-------------:|------------:|
-|  0 | programmeur sas - oncologie                              | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                              |           75 |        1210 |
-|  1 | ia / software                                            | https://www.emploi.leem.org/content/ia-software                                              |           75 |        1448 |
-|  2 | technicien biologie                                      | https://www.emploi.leem.org/content/technicien-biologie-5                                    |           75 |          36 |
-|  3 | documentaliste ged/rim affaires réglementaires           | https://www.emploi.leem.org/content/documentaliste-gedrim-affaires-r%c3%a9glementaires-0     |           75 |          48 |
-|  4 | pharmacien pharmacovigilance et affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-pharmacovigilance-et-affaires-pharmaceutiques |           92 |         153 |
-|  5 | pharmacien réglementaire                                 | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                          |           75 |        1444 |
-|  6 | programmeur statistique (adam & tfl)                     | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                         |           92 |         258 |
-|  7 | méthodologiste/biostatisticien                           | https://www.emploi.leem.org/content/m%c3%a9thodologistebiostatisticien                       |           78 |          92 |
-|  8 | documentaliste ged/rim affaires réglementaires.          | https://www.emploi.leem.org/content/documentaliste-gedrim-affaires-r%c3%a9glementaires       |           75 |         115 |
+|  0 | technicien biologie                                      | https://www.emploi.leem.org/content/technicien-biologie-5                                    |           75 |          49 |
+|  1 | programmeur sas - oncologie                              | https://www.emploi.leem.org/content/programmeur-sas-oncologie-0                              |           75 |        1218 |
+|  2 | ia / software                                            | https://www.emploi.leem.org/content/ia-software                                              |           75 |        1452 |
+|  3 | documentaliste ged/rim affaires réglementaires           | https://www.emploi.leem.org/content/documentaliste-gedrim-affaires-r%c3%a9glementaires-0     |           75 |          54 |
+|  4 | pharmacien pharmacovigilance et affaires pharmaceutiques | https://www.emploi.leem.org/content/pharmacien-pharmacovigilance-et-affaires-pharmaceutiques |           92 |         159 |
+|  5 | pharmacien réglementaire                                 | https://www.emploi.leem.org/content/pharmacien-r%c3%a9glementaire-2                          |           75 |        1448 |
+|  6 | programmeur statistique (adam & tfl)                     | https://www.emploi.leem.org/content/programmeur-statistique-adam-tfl                         |           92 |         262 |
+|  7 | méthodologiste/biostatisticien                           | https://www.emploi.leem.org/content/m%c3%a9thodologistebiostatisticien                       |           78 |          97 |
+|  8 | documentaliste ged/rim affaires réglementaires.          | https://www.emploi.leem.org/content/documentaliste-gedrim-affaires-r%c3%a9glementaires       |           75 |         118 |
   
-Last updated the 2021-04-28 at 09:22:04.
+Last updated the 2021-04-29 at 09:20:24.
